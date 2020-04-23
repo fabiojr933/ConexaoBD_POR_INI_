@@ -1,0 +1,11 @@
+C:\Users\Anderson\source\repos\teste\teste\bin\Release\teste.exe.config
+C:\Users\Anderson\source\repos\teste\teste\bin\Release\teste.exe
+C:\Users\Anderson\source\repos\teste\teste\bin\Release\teste.pdb
+C:\Users\Anderson\source\repos\teste\teste\bin\Release\mono.security.dll
+C:\Users\Anderson\source\repos\teste\teste\bin\Release\npgsql.dll
+C:\Users\Anderson\source\repos\teste\teste\obj\Release\teste.Form1.resources
+C:\Users\Anderson\source\repos\teste\teste\obj\Release\teste.Properties.Resources.resources
+C:\Users\Anderson\source\repos\teste\teste\obj\Release\ConexaoBD.csproj.GenerateResource.cache
+C:\Users\Anderson\source\repos\teste\teste\obj\Release\ConexaoBD.csproj.CopyComplete
+C:\Users\Anderson\source\repos\teste\teste\obj\Release\teste.exe
+C:\Users\Anderson\source\repos\teste\teste\obj\Release\teste.pdb
